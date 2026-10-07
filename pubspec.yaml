@@ -1,0 +1,18 @@
+name: voybit_payment_gateway
+description: Open a Voybit checkout from a Flutter app.
+version: 0.1.0
+homepage: https://github.com/VOYBIT/voybit-payment-gateway-flutter
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.25.0
